@@ -1,0 +1,1 @@
+sudo openvpn --config /vagrant_data/proxpn.conf --auth-user-pass /vagrant_data/proxpn.txt
